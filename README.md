@@ -1,4 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m @baptlem
+- 👀 I’m interested in ML and RL
+- 🌱 I’m currently learning AI in CentraleSupéléc, engineering school in Paris, France
+- 👷 Former CNES intern and CEA intern
+- 📫 How to reach me: lemaire.baptiste@outlook.fr or LinkedIn: https://www.linkedin.com/in/baptiste-lemaire-320428170/
+
+<!---
+baptbaptpy/baptbaptpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <!--
 **baptlem/baptlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
