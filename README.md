@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baptlem
 - 👀 I’m interested in ML and RL
-- 🌱 I’m currently learning AI in CentraleSupéléc, engineering school in Paris, France
+- 🌱 I’m currently learning AI in CentraleSupélec, engineering school in Paris, France
 - 👷 Former CNES intern and CEA intern
 - 📫 How to reach me: lemaire.baptiste@outlook.fr or LinkedIn: https://www.linkedin.com/in/baptiste-lemaire-320428170/
 
